@@ -1,4 +1,4 @@
-# README: Risk Constraints & System Boundaries
+# Risk Constraints
 
 This document outlines the core operational risks, system constraints, and functional boundaries for The Dynamic 4 parking management and guidance system (CS1161 Lab 2).
 
@@ -34,3 +34,8 @@ The parking assistance system operates under strict environmental and technical 
 To maintain the integrity of the guidance system, the following operational protocols are enforced:
 1. **Dynamic Rerouting:** Guide lights flash yellow when a spot is taken, and immediately flash green once a new route is calculated.
 2. **Access Control:** The app reserves parking spaces closer to the destination, and guide lights flash RED quickly to show abled drivers that the spot is not for them, ensuring disabled parking spots are shown only to disabled people.
+
+## Next Steps
+- [ ] Finalize the 5-second timeout rule for spot updates and dynamic guide light rerouting (Yusuf, 2026-11-02)
+- [ ] Complete the prototype frames and test peer feedback implementation (Beverly, 2026-11-04)
+```
