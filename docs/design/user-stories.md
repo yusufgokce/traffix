@@ -13,7 +13,7 @@ As a university instructor, I want to be guided to the nearest open spot so that
 - Given I'm following the guide lights, When I reach the target spot, Then the spot is marked as taken for other drivers.
 
 ### US-2: See which lots are full (Now)
-As a store manager without designated parking, I want to know which lots are completely full so that I don't waste time and can reroute to a different lot.
+As a store manager without a designated parking, I want to know which lots are completely full so that I don't waste time and I can reroute to a different lot.
 - Given I've entered my destination, When I request parking options, Then each nearby lot shows how many spots are open.
 - Given a lot has no open spots, When it appears in the list, Then it's marked as full and placed below lots with space.
 
