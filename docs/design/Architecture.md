@@ -55,3 +55,13 @@ The components interact in the following way:
 ## 5. Assumptions and Dependencies
 
 The application depends on having parking-location and availability information. Map and navigation services may be required to display parking locations and provide directions. Real-time availability and notifications will depend on the data sources and services available to the project.
+
+## 6. Next Steps
+
+- [ ] Confirm the system components with the project team.
+- [ ] Agree on the programming languages, frameworks, and database to be used.
+- [ ] Confirm which mapping and navigation services the application will use.
+- [ ] Review how parking reservations, availability updates, and notifications will work together.
+- [ ] Check that the architecture aligns with the team's user stories and acceptance criteria.
+- [ ] Review and update this document based on feedback from team members.
+- [ ] Commit the completed `Architecture.md` file and submit a pull request for review.
