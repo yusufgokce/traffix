@@ -11,9 +11,10 @@ Quick questions and coordination happen in our group chat. Any decision that aff
 
 ### Response Times
 
-- We reply to messages within **24 hours on weekdays** and within **48 hours on weekends**.
+- We reply to messages within **24 hours on weekdays** and within **36 hours on weekends**.
 - PR review requests get a response within **24 hours**.
 - If you can't review in time, say so and suggest someone else.
+- On deadline days, responses to urgent requests should be provided within **4 hours**.
 
 ### Meeting Etiquette
 
@@ -45,3 +46,9 @@ Quick questions and coordination happen in our group chat. Any decision that aff
 - `<idea 1>` — **Owner:** `<name>`
 - `<idea 2>` — **Owner:** `<name>`
 - `<idea 3>` — **Owner:** `<name>`
+
+## Clarity Rewrite
+
+**Bad comment:** "This is wrong. Fix it."
+
+**Good comment:** "Could we update the response time to 36 hours on weekends to make our expectations clearer?"
