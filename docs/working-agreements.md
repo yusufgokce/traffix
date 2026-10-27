@@ -36,19 +36,25 @@ Quick questions and coordination happen in our group chat. Any decision that aff
 
 | Role | Name |
 |---|---|
-| Facilitator | `<name>` |
-| Scribe | `<name>` |
-| Contributor | `<name>` |
-| Contributor | `<name>` |
+| Facilitator | Yusuf |
+| Scribe | Taiwo |
+| Contributor | Jessica |
+| Dev | Bev |
 
 ### Discussion: One Idea Each to Improve Our Design
 
-- `<idea 1>` — **Owner:** `<name>`
-- `<idea 2>` — **Owner:** `<name>`
-- `<idea 3>` — **Owner:** `<name>`
+- Allow the payment process to be done seamlessly through the webapp using license plate tracking to pay for parking — **Owner:** Taiwo
+- Add a feature at the top right that shows the hourly rate for the respective parking space (and any discounts like student, elderly, working professional etc) — **Owner:** Beverly
+- Add simple navigation and directions that will be reflected on your phone — **Owner:** Jessica
+- Add a diagram showing how the grid, guide lights and simulator connect — **Owner:** Yusuf
 
 ## Clarity Rewrite
 
-**Bad comment:** "This is wrong. Fix it."
+**Before:**
+> We reply to messages within 24 hours on weekdays and within 48 hours on weekends.
 
-**Good comment:** "Could we update the response time to 36 hours on weekends to make our expectations clearer?"
+**After (from PR review):**
+> - We reply to messages within **24 hours on weekdays** and within **36 hours on weekends**.
+> - On deadline days, responses to urgent requests should be provided within **4 hours**.
+
+**Why:** the original didn't say what happens close to a deadline, when waiting a full day can block the team.
