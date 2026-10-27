@@ -36,10 +36,10 @@ Quick questions and coordination happen in our group chat. Any decision that aff
 
 | Role | Name |
 |---|---|
-| Facilitator | `<name>` |
-| Scribe | `<name>` |
-| Contributor | `<name>` |
-| Contributor | `<name>` |
+| Facilitator | Yusuf |
+| Scribe | Taiwo |
+| Contributor | Jessica |
+| Dev | Bev |
 
 ### Discussion: One Idea Each to Improve Our Design
 
