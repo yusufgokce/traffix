@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
+
+  /* Simulator console */
+  --color-ink: #0d1216;
+  --color-panel: #11181d;
+  --color-panel-2: #171f25;
+  --color-edge: #253139;
+  --color-fog: #c9d2d6;
+  --color-dim: #6b7a82;
+  --color-lime: #b7f36b;
+  --color-lime-deep: #253c24;
+  --color-amber: #f0c24b;
+  --color-alert: #e07a7a;
+
+  /* Driver app */
+  --color-app: #101718;
+  --color-card: #202b2d;
+  --color-card-2: #2a3638;
+  --color-sun: #f4de55;
+  --color-mint: #85d6a3;
+  --color-coral: #ca827b;
+  --color-sky: #8cbfff;
+  --color-plate: #f5f5e9;
+  --color-soft: #949f9d;
+}
+
+html,
+body {
+  background: #0d1216;
+  color: #c9d2d6;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+input[type="range"] {
+  accent-color: #b7f36b;
+}
